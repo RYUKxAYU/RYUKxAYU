@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RYUKxAYU
-- 👀 I’m interested in ... Learning hacking
-- 🌱 I’m currently learning ... Data analysis
-- 💞️ I’m looking to collaborate on ... How to become a hacker
+- 👀 I’m interested in ... Learning about AI,ML models(specially LLMs and NN)
+- 🌱 I’m currently learning ... Data analysis and ML 
+- 💞️ I’m looking to collaborate on ... How to become a LLM devloper and AI engineer 
 - 📫 How to reach me ... Just by message me on my gmail # sqthegod18@gmail.com
 
 <!---
